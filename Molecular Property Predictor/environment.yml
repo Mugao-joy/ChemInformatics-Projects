@@ -1,0 +1,15 @@
+name: molprop
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - rdkit
+  - scikit-learn
+  - pandas
+  - numpy
+  - joblib
+  - matplotlib
+  - seaborn
+  - pip
+  - pip:
+      - tqdm
