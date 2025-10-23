@@ -389,3 +389,6 @@ If you find bugs or have suggestions for improvements:
 2. Provide example code if possible
 3. Share via mugaojoy@gmail.com
 
+### Sample Output
+
+![Console Output](assets/console_output.png)
